@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: 'Postgrduate Researcher' 
+subtitle: 'Postgraduate Researcher' 
 
 profile:
   align: right
