@@ -2,9 +2,9 @@
 layout: page
 title: Public Sentiment
 description: Pubilc Sentiment Impact on Cross-Border Acquisitions
-img: assets/img/12.jpg
+img: assets/img/11.png
 importance: 1
-category: research
+category: Research
 related_publications: true
 ---
 
